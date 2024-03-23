@@ -1,4 +1,4 @@
-\page Thema10 TOP 10: Einrichtung für Senioren
+\page Thema10_8md TOP 10: Einrichtung für Senioren
 
 Nach vielen Jahren des Verhandelns und Wartens bekommt Hochdorf mit der Amalien-Residenz
 eine feste Einrichtung für Senioren. Die Evangelische Heimstiftung erstellt und betreibt

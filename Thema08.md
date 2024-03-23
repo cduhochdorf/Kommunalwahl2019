@@ -1,4 +1,4 @@
-\page Thema8 TOP 8: Kleinkindbetreuung
+\page Thema08_8md TOP 8: Kleinkindbetreuung
 
 Sowohl das evangelische Kinderhaus am Talbach als auch das katholische Albert-Schweitzer-
 Kinderhaus bieten in jeweils mehreren Gruppen den Regelbetrieb für Kinder ab 3 Jahren

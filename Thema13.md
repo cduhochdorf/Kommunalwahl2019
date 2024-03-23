@@ -1,4 +1,4 @@
-\page Thema TOP 13: Digitalisierung
+\page Thema13_8md TOP 13: Digitalisierung
 
 Zur Lebens- und Wohnqualität einer Gemeinde zählt unter dem Stichwort Digitalisierung
 die Versorgung von Gewerbebetrieben wie auch der Bürger und öffentliche Einrichtungen

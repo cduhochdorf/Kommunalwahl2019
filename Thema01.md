@@ -1,4 +1,4 @@
-\page Thema1 TOP 1: Öffentlichkeit & Transparenz
+\page Thema01_8md TOP 1: Öffentlichkeit & Transparenz
 
 Entscheidungen des Gemeinderates können
 von der Bürgerschaft nur mitgetragen werden,
@@ -18,14 +18,20 @@ im Gemeindeanzeiger.
 
 - <b class="tab-title">Facebook</b><div class="darkmode_inverted_image">
     ![](Documentation/img/2019/facebook.jpg)
+
+    [Link zur CDU Hochdorf Facebookseite](https://www.facebook.com/p/CDU-Ortsverband-Hochdorf-100064852681611/)
     </div>
 
 - <b class="tab-title">Gemeindenazeiger</b><div class="darkmode_inverted_image">
     ![](Documentation/img/2019/gemeindeanzeiger.jpg)
+
+    [Link zum Gemeindeanzeiger](https://www.hochdorf.de/rathaus-service/gemeindeanzeiger/mitteilungsblatt)
     </div>
 
 - <b class="tab-title">Homepage</b><div class="darkmode_inverted_image">
     ![](Documentation/img/2019/homepage.jpg)
+
+    [Link zur Homepage von Hochdorf ](https://www.hochdorf.de/startseite)
     </div>
 
 </div>

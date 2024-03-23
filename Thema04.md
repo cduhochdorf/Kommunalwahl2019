@@ -1,4 +1,4 @@
-\page Thema4 TOP 4: Talbachsanierung
+\page Thema04_8md TOP 4: Talbachsanierung
 
 Zu normalen Zeiten dümpelt der Talbach im Ortskern so vor sich hin.
 Ihn zugänglicher und ansehnlicher umzugestalten, ist schon lange ein

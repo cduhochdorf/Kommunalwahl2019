@@ -1,4 +1,4 @@
-\page Thema9 TOP 9: Schule und Schulkindbetreuung
+\page Thema09_8md TOP 9: Schule und Schulkindbetreuung
 
 Während andernorts immer mehr Grundschulen zu Ganztagesschulen entweder in Wahl- oder
 gebundener Form umgewandelt worden sind, war dies bisher in Hochdorf auch unter Einbeziehung

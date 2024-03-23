@@ -1,4 +1,4 @@
-\page Thema5 TOP 5: Ortskernsanierung
+\page Thema05_8md TOP 5: Ortskernsanierung
 
 Hochdorf wird sich nicht nur als Folge neuer Baugebiete, sondern auch
 durch Sanierungs- oder Umbaumaßnahmen in der Ortsmitte verändern.

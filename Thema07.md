@@ -1,4 +1,4 @@
-\page Thema7 TOP 7: Lebens- und Wohnqualität, Infrastruktur
+\page Thema07_8md TOP 7: Lebens- und Wohnqualität, Infrastruktur
 
 Um sich in Hochdorf wohl zu fühlen, erwarten Alt- und Neubürger jeweils mit ihren Familien eine hervorragende
 Lebens- und Wohnqualität, eine gute Verkehrsanbindung und einen hohen Freizeitwert.

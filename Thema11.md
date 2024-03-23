@@ -1,4 +1,4 @@
-\page Thema11 TOP 11: Einkaufsmöglichkeiten
+\page Thema11_8md TOP 11: Einkaufsmöglichkeiten
 
 Eine Gemeinde in der Größe Hochdorfs braucht Möglichkeiten für den Einkauf von Waren
 für den täglichen Bedarf. Wie schon erwähnt, ist im „Mittleren Feld“ die Verlagerung und
