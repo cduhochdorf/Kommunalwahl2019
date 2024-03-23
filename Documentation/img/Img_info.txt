@@ -1,0 +1,10 @@
+Kandidaten:
+Web speichern: JPG mittel
+
+Große Bilder:
+Web speichern: JPG niedrig
+
+Abrunden:
+mit Paint als PNG speichern
+Breite und Höhe: 100 Radius 25 Px
+Web speichern: GIF 128
