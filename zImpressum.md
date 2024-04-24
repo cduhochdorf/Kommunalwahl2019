@@ -1,5 +1,7 @@
 \page Impressum Datenschutz & Impressum ✉
 
+![](Documentation/img/cdu.jpg)
+
 ## Anbieter im Sinne des §5 TMG
 
 Herr Andreas Bruntner  
